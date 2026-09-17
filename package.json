@@ -95,7 +95,7 @@
     "three": "^0.184.0"
   },
   "devDependencies": {
-    "@metaplex-foundation/mpl-token-metadata": "^2.13.0",
+    "@metaplex-foundation/mpl-token-metadata": "^3.4.0",
     "@types/node": "25.9.1",
     "patch-package": "^8.0.1",
     "tailwind-scrollbar": "^3.0.4",
